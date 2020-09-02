@@ -9,7 +9,7 @@ Aluno: Josué Batista
 Obs.: Exercícios das aulas de Bootstrap
 
 ========================================================================
-Site desenvolvido em Bootstrap 4 Atualmente v4.4.1 - HTML/CSS/JavaScript
+Site desenvolvido em Bootstrap 4 Atualmente - Currently v4.5.2- HTML/CSS/JavaScript
 LICENÇA
 **atribuições criativas comuns 1.0** - harpiasoftwares.com
 
